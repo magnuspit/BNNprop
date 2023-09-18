@@ -1,1 +1,1 @@
-Trained BNN models of CNN and MLP can be downloaded here: 
+Trained BNN models of CNN and MLP can be downloaded here: https://1drv.ms/u/s!AukhCQare2hjjN02H417Zs4MtDil2w?e=DUvYHj
