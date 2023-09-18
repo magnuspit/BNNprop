@@ -11,8 +11,8 @@ To clone this repository along with the submodule, run:
 git clone --recursive https://github.com/magnuspit/BNNprop.git
 ```
 It's very recommendable to follow the submodule instructions related to the environment creation and libraries installation. In case of looking for replicating the results of the research, two steps must be followed for each dataset:
-- Copy the ´config/´ files to the ´xNN/configuration/´ folder.
-- Run the Python scripts you can find in ´xNN/dnn_examples/´ changing the config file link and "activation" function.
+- Copy the `config/` files to the `xNN/configuration/` folder.
+- Run the Python scripts you can find in `xNN/dnn_examples/` changing the config file link and "activation" function.
 
 All the trained BNNs can be found in `models/` properly identified and in Tensorflow format.
 
