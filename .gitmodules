@@ -1,0 +1,3 @@
+[submodule "xNN"]
+	path = xNN
+	url = https://github.com/vikical/xNN.git
