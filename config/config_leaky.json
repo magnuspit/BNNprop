@@ -1,0 +1,11 @@
+{
+    "pad_values": 0.0,
+    "input_quantizer": "ste_sign",
+    "depthwise_quantizer":"ste_sign",
+    "pointwise_quantizer":"ste_sign",
+    "kernel_quantizer":"ste_sign",
+    "kernel_constraint":"weight_clip",
+    "activation_relu": "leaky_relu",
+    "activation_sigmoid":"sigmoid",
+    "activation_softmax":"softmax"
+}
