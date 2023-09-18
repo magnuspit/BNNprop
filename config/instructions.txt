@@ -1,0 +1,1 @@
+This files must be copy and paste on the xNN/configuration folder
