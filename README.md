@@ -8,7 +8,7 @@ We have included the [dnn2bnn library](https://github.com/vikical/xNN) as a subm
 To clone this repository along with the submodule, run:
 
 ```bash
-git clone --recursive [https://github.com/your-username/your-repo.git](https://github.com/magnuspit/BNNprop.git)
+git clone --recursive https://github.com/magnuspit/BNNprop.git
 ```
 It's very recommendable to follow the submodule instructions related to the environment creation and libraries installation. In case of looking for replicating the results of the research, two steps must be followed for each dataset:
 - Copy the ´config/´ files to the ´xNN/configuration/´ folder.
